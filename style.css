@@ -1,0 +1,17 @@
+/* style.css - Modern Dark Mode */
+body {
+    background: #121212;
+    color: #00ff88;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+#clock {
+    font-size: 3rem;
+    border: 2px solid #00ff88;
+    padding: 20px;
+    border-radius: 10px;
+}
